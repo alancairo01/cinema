@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Tabela Simples</title>
+</head>
+<body>
+  <table>
+    <caption>Dados de João Aleatório</caption>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Idade</th>
+        <th>Cidade</th>
+        <th>Pontuação</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>001</td>
+        <td>27</td>
+        <td>Curitiba</td>
+        <td>82</td>
+      </tr>
+      <tr>
+        <td>002</td>
+        <td>34</td>
+        <td>Recife</td>
+        <td>91</td>
+      </tr>
+      <tr>
+        <td>003</td>
+        <td>22</td>
+        <td>Manaus</td>
+        <td>76</td>
+      </tr>
+      <tr>
+        <td>004</td>
+        <td>45</td>
+        <td>Porto Alegre</td>
+        <td>88</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
